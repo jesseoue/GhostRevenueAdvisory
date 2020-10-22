@@ -22,7 +22,7 @@ module.exports = {
     themeColor: `#15171A`,
 
     // Show more logs for debugging purposes (default: false)
-    verbose: false,
+    verbose: true,
 
     // Severity for verbose mode: (`info`, `warn`, `error`)
     severity: `info`,
