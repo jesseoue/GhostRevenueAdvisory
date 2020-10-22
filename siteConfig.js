@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://jesseouellette.ghost.io`,
+    siteUrl: `http://jesseouellette.ghost.io`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
